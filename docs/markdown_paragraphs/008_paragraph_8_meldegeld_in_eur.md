@@ -1,27 +1,23 @@
 ## § 8 Meldegeld in EUR
 1. Bezirk Oberbayern:
-|  |  |
-| --- | --- |
-| a. Bezirksoberliga der Herren | 150,00 |
 
-|  |  |  |
-| --- | --- | --- |
-| b. | Bezirksliga der Herren/gemischt | 125,00 |
-| c. | Bezirksoberliga der Damen | 150,00 |
-| d. | Bezirksliga der Damen | 125,00 |
-| e. | Bezirksbestenspiele der Senioren Ü35 und Ü40 | 25,00 |
-| f. | Bezirkspokal Herren/gemischt und Damen | 25,00 |
-| g. | Bezirks- +Bezirksoberligen Jgd mit namtl. SR-Einteilung | 100,00 |
-| h. | Bezirks-+Bezirksoberligen Jgd mit SR-Vereinseintlg./Verursacherprinzip | 75,00 |
-
-i.   Kreispokalfinalisten zahlen bei Teilnahme am Bezirkspokal kein Meldegeld.
-|  |  |  |
-| --- | --- | --- |
-| j. | Qualifikation + Relegation Jugend | 50,00 |
+|  |                                                                        |         |
+| --- |------------------------------------------------------------------------|---------|
+| a. | Bezirksoberliga der Herren                                             | 150,00  |
+| b. | Bezirksliga der Herren/gemischt                                        | 125,00  |
+| c. | Bezirksoberliga der Damen                                              | 150,00  |
+| d. | Bezirksliga der Damen                                                  | 125,00  |
+| e. | Bezirksbestenspiele der Senioren Ü35 und Ü40                           | 25,00   |
+| f. | Bezirkspokal Herren/gemischt und Damen                                 | 25,00   |
+| g. | Bezirks- +Bezirksoberligen Jgd mit namtl. SR-Einteilung                | 100,00  |
+| h. | Bezirks-+Bezirksoberligen Jgd mit SR-Vereinseintlg./Verursacherprinzip | 75,00   |
+| i. | Kreispokalfinalisten zahlen bei Teilnahme am Bezirkspokal kein Meldegeld. |         |
+| j. | Qualifikation + Relegation Jugend | 50,00   |
 
 Kreisverbund (Kreisübergreifend):
-|  |  |  |
-| --- | --- | --- |
+
+|  |                                                                        |         |
+| --- |------------------------------------------------------------------------|---------|
 | k. | Bezirksklasse, Kreisliga und Kreisklasse der Damen | 50,00 |
 | l. | Bezirksklasse, Kreisliga und Kreiskl. Jugend (alle Alterskl. m/g+w) | 25,00 |
 | m. | Kreispokal Damen und Herren/gemischt | 25,00 |

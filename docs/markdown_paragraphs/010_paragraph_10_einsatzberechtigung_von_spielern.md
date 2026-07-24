@@ -27,17 +27,17 @@ Spieler vorzulegen. (In Reihenfolge der Trikot-Nr.)
 
 13. Nur für Kreisebene: Zusätzliche Einsatzberechtigung (ZEB):
 
-Es gilt folgende Erweiterung: In allen Ligen auf Kreisebene, ausgenommen den Bezirksklassen der
-Herren, können unter folgenden Voraussetzungen Anträge auf zusätzliche Einsatzberechtigungen
-an den Veranstalter des jeweiligen Wettbewerbs gestellt werden:
-a. Der Spieler verfügt über einen aktiven Teilnehmerausweis und über weniger als vier
-Einsatzberechtigungen.
-b. Es besteht keine Einsatzberechtigung für eine andere Mannschaft desselben Wettbewerbs.
-c.   Der Antrag ist gebührenpflichtig und für jede Spielzeit neu zu stellen. Der Antrag ist zu
-begründen.
-Die Entscheidung über die Zulassung der ZEB wird vom veranstaltenden Kreis getroffen und kann
-von diesem ebenfalls entzogen werden. Es besteht kein Anspruch. Der Ausrichter oder eine von ihm
-beauftragte Person/ein von ihm beauftragtes Gremium wird jeden Antrag unter der Berücksichtigung
-der Liga auf Notwendigkeit und Wettbewerbsverzerrung prüfen und entscheiden.
-Darüber hinaus kann eine ZEB auch ohne Notwendigkeit, also ohne Spielermangel, und klar
-außerhalb der eigentlichen Altersklasse genehmigt werden, wenn sie der Inklusion dient.
+    Es gilt folgende Erweiterung: In allen Ligen auf Kreisebene, ausgenommen den Bezirksklassen der
+    Herren, können unter folgenden Voraussetzungen Anträge auf zusätzliche Einsatzberechtigungen
+    an den Veranstalter des jeweiligen Wettbewerbs gestellt werden:
+    a. Der Spieler verfügt über einen aktiven Teilnehmerausweis und über weniger als vier
+    Einsatzberechtigungen.
+    b. Es besteht keine Einsatzberechtigung für eine andere Mannschaft desselben Wettbewerbs.
+    c.   Der Antrag ist gebührenpflichtig und für jede Spielzeit neu zu stellen. Der Antrag ist zu
+    begründen.
+    Die Entscheidung über die Zulassung der ZEB wird vom veranstaltenden Kreis getroffen und kann
+    von diesem ebenfalls entzogen werden. Es besteht kein Anspruch. Der Ausrichter oder eine von ihm
+    beauftragte Person/ein von ihm beauftragtes Gremium wird jeden Antrag unter der Berücksichtigung
+    der Liga auf Notwendigkeit und Wettbewerbsverzerrung prüfen und entscheiden.
+    Darüber hinaus kann eine ZEB auch ohne Notwendigkeit, also ohne Spielermangel, und klar
+    außerhalb der eigentlichen Altersklasse genehmigt werden, wenn sie der Inklusion dient.

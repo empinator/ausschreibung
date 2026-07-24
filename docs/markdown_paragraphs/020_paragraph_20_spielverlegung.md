@@ -19,9 +19,7 @@ Zusätzlich zu den in DBB-JSO § 5.2 genannten Verlegungsgründen gelten Auswahl
 des Bezirks als zwingende Gründe einer Spielverlegung. Darüber hinaus gilt die unverschuldete
 Sperrung/Spieluntauglichkeit der geplanten Spielhalle als offizieller Verlegungsgrund.
 Liegt ein anderes Szenario mit höherer Gewalt vor, entscheidet der jeweilige Spielleiter, ob es
-sich um einen offiziellen Verlegungsgrund handelt. Die Entscheidung ist nicht anfechtbar. Es sind
-
-Nachweise zu erbringen.
+sich um einen offiziellen Verlegungsgrund handelt. Die Entscheidung ist nicht anfechtbar. Es sind Nachweise zu erbringen.
 5. Strafe bei verspäteter Beantragung
 Bei Spielverlegungen, die bei der Spielleitung nicht bis 24:00 Uhr am Montag, mindestens jedoch
 fünf Tage, vor dem angesetzten Spieltermin schriftlich vorliegen, wird zusätzlich eine Strafgebühr

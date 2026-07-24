@@ -2,14 +2,14 @@
 1. Es sind nur Anschreibebögen (ASB) des Deutschen Basketball Bundes ab der Ausgabe 8/00 (sofern
 kein DSS genutzt) und neuer zugelassen.
 Im Bereich U12 und jünger ist nur der vereinfachte ASB für Minis zugelassen (Download unter
-www.bb- obb.de/jml/index.php/download als „Mini-Spielberichtsbogen“)
+www.bb-obb.de/jml/index.php/download als „Mini-Spielberichtsbogen“)
 2. Die Eintragungen in Papierform sind wie folgt vorzunehmen:
 Grundeintragungen werden in SCHWARZ eingetragen (bis auf „Erste Fünf“ und deren Bestätigung)
 
-1. Spielperiode wird in ROT eingetragen
-2. Spielperiode wird in BLAU eingetragen
-3. Spielperiode wird in GRÜN eingetragen
-4. Spielperiode und jede Verlängerung wird in SCHWARZ eingetragen
+   1. Spielperiode wird in ROT eingetragen
+   2. Spielperiode wird in BLAU eingetragen
+   3. Spielperiode wird in GRÜN eingetragen
+   4. Spielperiode und jede Verlängerung wird in SCHWARZ eingetragen
 
 3. In der Spalte „TA/MMB-Nr.“ sind die letzten drei Ziffern der Nummer des
 Teilnehmerausweises einzutragen.
@@ -55,24 +55,27 @@ melden.
 Turnierform der erstgenannte Verein) am ersten Werktag nach Austragung einzutragen.
 Wünschenswert ist die Eingabe eines kurzen Spielberichts. Abweichend davon sind in den
 Altersklassen u11 und jünger lediglich die Spieler in TeamSL abzuhaken.
-10. Die Nutzung des DSS ist generell in der Version Basic (ohne Scouting) in allen Ligen des Bezirk OBB
-und seiner Kreise. Sofern nicht konkret anders benannt sind alle Vorgaben des
-Papierspielberichtbogens sinngemäß auf den digitalen Spielberichtsbogen anzuwenden.
+10. 
 
-In folgenden Ligen ist der DSS als Anschreibebogen zu nutzen:
-siehe §2 Wettbewerbe, Spalte “Hinweise”
+    Die Nutzung des DSS ist generell in der Version Basic (ohne Scouting) in allen Ligen des Bezirk OBB
+    und seiner Kreise. Sofern nicht konkret anders benannt sind alle Vorgaben des
+    Papierspielberichtbogens sinngemäß auf den digitalen Spielberichtsbogen anzuwenden.
 
-Die nachfolgenden Voraussetzungen müssen erfüllt sein. Die Nutzung des Papierbogens wird gem.
-Strafenkatalog (§119 (7) Nr. 26a) geahndet.
+    In folgenden Ligen ist der DSS als Anschreibebogen zu nutzen:
+    siehe §2 Wettbewerbe, Spalte “Hinweise”
+    
+    Die nachfolgenden Voraussetzungen müssen erfüllt sein. Die Nutzung des Papierbogens wird gem.
+    Strafenkatalog (§119 (7) Nr. 26a) geahndet.
+    
+    Voraussetzung zur Nutzung (unabhängig von freiwilliger oder verpflichtender Nutzung):
+    
+    Das Kampfgericht ist für den DSS geschult und sieht sich in der Lage, den DSS zu bedienen, ohne
+    dass das Spiel oder der Spielfluss merklich darunter leidet. Der ausrichtende Verein ist dafür
+    verantwortlich, dass es funktioniert, und hat als Schulungsnachweis des Anschreibers ein Zertifikat
+    von NBN23 dem 1. Schiedsrichter vorzulegen.
+    Das Einverständnis des 1. Schiedsrichters zur Nutzung beim jeweiligen Spiel wurde spätestens 20
+    Min. vor Spielbeginn eingeholt. Abweichend davon muss in den Ligen den verpflichtenden Ligen der
+    Schiedsrichter lediglich informiert werden.
 
-Voraussetzung zur Nutzung (unabhängig von freiwilliger oder verpflichtender Nutzung):
-
-Das Kampfgericht ist für den DSS geschult und sieht sich in der Lage, den DSS zu bedienen, ohne
-dass das Spiel oder der Spielfluss merklich darunter leidet. Der ausrichtende Verein ist dafür
-verantwortlich, dass es funktioniert, und hat als Schulungsnachweis des Anschreibers ein Zertifikat
-von NBN23 dem 1. Schiedsrichter vorzulegen.
-Das Einverständnis des 1. Schiedsrichters zur Nutzung beim jeweiligen Spiel wurde spätestens 20
-Min. vor Spielbeginn eingeholt. Abweichend davon muss in den Ligen den verpflichtenden Ligen der
-Schiedsrichter lediglich informiert werden.
 11. Die Durchführungsbestimmungen zum digitalen Spielbericht müssen beachtet werden ab
 Saison 25/26. siehe BBV-Homepage

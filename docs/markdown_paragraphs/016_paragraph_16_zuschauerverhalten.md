@@ -23,7 +23,6 @@ Person(en) zu vermerken.
 In Extremfällen oder im Wiederholungsfall wird die Spielleitung oder der Sport-/Jugendausschuss,
 Geldstrafen wegen sportschädigendem Verhalten gem. dem Strafenkatalog aussprechen. Darüber
 hinaus ist ein Ausschluss der Öffentlichkeit für künftige Spiele möglich. Der Ausschluss kann eine,
-
 mehrere oder alle Ligen auf Bezirks- oder Kreisebene betreffen und für eine bestimmte Anzahl von
 Spielen, sowie für eine zeitliche Dauer gelten. Weitere Ebenen können sich diesem Beschluss
 anschließen. Der Ausschluss und dessen Umfang wird durch die Spielleitung oder den
