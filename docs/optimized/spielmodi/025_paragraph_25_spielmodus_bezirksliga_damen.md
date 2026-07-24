@@ -8,15 +8,12 @@
 - **Reguläre Aufsteiger aus den Bezirksklassen:** jeweilige Staffelsieger
 - **Sportliche Abstiegsplätze:** bei einer Staffel Platz 9; bei zwei Gruppen bis zu zwei durch Abstiegsspiele ermittelte Mannschaften
 - **Saisonende:** 02.05.; spätere Spielverlegungen sind ausgeschlossen
-
-### Anzuwendende Referenzregeln
-
-- Nachrücken aus den Bezirksklassen bis höchstens Platz 4
-- Staffelvergleich nach § 121.2
-- Nichtteilnahme führt zum Abstieg
-- Bei nur acht tatsächlich teilnehmenden Mannschaften ohne Vorrundengruppen ist zusätzlich die letztplatzierte teilnehmende Mannschaft sportlicher Absteiger
-- Sollstärkenausgleich auf 9 Mannschaften
-- Freie Anwartschaften werden zunächst an weitere nachrückberechtigte Mannschaften, anschließend an den besten Absteiger vergeben
+- **Nachrücken:** aus den Bezirksklassen bis höchstens Platz 4
+- **Vergleichsregel:** Staffelvergleich nach § 121.2
+- **Nichtteilnahme:** führt zum Abstieg
+- **Zusätzlicher Abstieg bei Unterbesetzung:** bei nur 8 tatsächlich teilnehmenden Mannschaften ohne Vorrundengruppen auch die letztplatzierte teilnehmende Mannschaft
+- **Sollstärkenausgleich:** auf 9 Mannschaften
+- **Freie Anwartschaften:** zuerst weitere nachrückberechtigte Mannschaften, anschließend bester Absteiger
 
 ### Besonderheiten
 

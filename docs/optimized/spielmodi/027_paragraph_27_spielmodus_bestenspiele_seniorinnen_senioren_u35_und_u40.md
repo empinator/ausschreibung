@@ -6,12 +6,9 @@
 - **Mögliche Austragungsformen:** Doppelrunde, KO-System mit Hin- und Rückspiel, Gruppenphase oder Turnier an einem Tag beziehungsweise Wochenende
 - **Weiterführende Wettbewerbe:** Meister und gegebenenfalls Vizemeister nach Maßgabe der BBV-Ausschreibung
 - **Spieltermine:** gesonderte Veröffentlichung; Abweichungen im Einvernehmen aller Beteiligten mit Zustimmung des Sportreferenten möglich
-
-### Anzuwendende Referenzregeln
-
-- Wettbewerbsform und Phasen werden nach Eingang der Meldungen festgelegt
-- Bei Turnierform werden die Schiedsrichterkosten auf die teilnehmenden Vereine umgelegt
-- Bei zu vielen Meldungen für ein Turnier kann ein weiterer Termin angesetzt werden
+- **Festlegung der Wettbewerbsform:** nach Eingang der Meldungen
+- **Schiedsrichterkosten bei Turnierform:** Umlage auf die teilnehmenden Vereine
+- **Zusatztermin:** bei zu vielen Meldungen für ein Turnier möglich
 
 ### Besonderheiten
 

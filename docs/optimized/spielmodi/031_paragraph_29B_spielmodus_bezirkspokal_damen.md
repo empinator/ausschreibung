@@ -5,10 +5,7 @@
 - **Mindestteilnehmerzahl:** 4 Mannschaften
 - **Wettbewerbsform:** abhängig vom Meldeergebnis
 - **Mögliche Austragungsform:** insbesondere Turnierform
-
-### Anzuwendende Referenzregeln
-
-Die endgültige Wettbewerbsform wird nach Meldeschluss durch den Sportreferenten festgelegt und den teilnehmenden Mannschaften mitgeteilt.
+- **Festlegung der Wettbewerbsform:** nach Meldeschluss durch den Sportreferenten; Mitteilung an die teilnehmenden Mannschaften
 
 ### Besonderheiten
 

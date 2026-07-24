@@ -3,10 +3,7 @@
 ### Wettbewerbsparameter
 
 - **Wettbewerbsform:** abhängig vom Meldeergebnis
-
-### Anzuwendende Referenzregeln
-
-Der Austragungsmodus wird nach Meldeschluss durch die zuständige Spielleitung festgelegt und den teilnehmenden Mannschaften bekannt gegeben.
+- **Festlegung des Austragungsmodus:** nach Meldeschluss durch die zuständige Spielleitung; Bekanntgabe an die teilnehmenden Mannschaften
 
 ### Besonderheiten
 

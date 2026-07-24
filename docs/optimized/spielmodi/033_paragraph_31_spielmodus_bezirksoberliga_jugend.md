@@ -8,12 +8,9 @@
 - **Teilnahmerechte:** gemäß Vorjahresplatzierung, Relegation oder Qualifikation nach §§ 33 und 34
 - **Meister:** grundsätzlich Platz 1, sofern keine gesonderte Meisterschaft durchgeführt wird
 - **Saisonende:** grundsätzlich 01.05.; abweichende Termine werden veröffentlicht
-
-### Anzuwendende Referenzregeln
-
-- Sollstärkenausgleich durch zusätzliche Qualifikationsmodi des Bezirksjugendausschusses
-- Teilnahme an weiterführenden Wettbewerben nach BBV-Ausschreibung
-- Für U12 und U10 gelten abweichende Qualifikationsparameter: 8 bis 10 Mannschaften, mindestens 4; Freistellungen und Qualifikation in einer Runde sind möglich
+- **Sollstärkenausgleich:** durch zusätzliche Qualifikationsmodi des Bezirksjugendausschusses
+- **Weiterführende Wettbewerbe:** Teilnahme nach BBV-Ausschreibung
+- **Qualifikationsparameter U12/U10:** 8 bis 10 Mannschaften, mindestens 4; Freistellungen und Qualifikation in einer Runde möglich
 
 ### Besonderheiten
 
