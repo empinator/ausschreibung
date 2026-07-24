@@ -6,7 +6,7 @@
 - **Staffelstruktur:** nach Meldeergebnis; höchstens 9 Mannschaften je Staffel
 - **Rundenmodus:** Doppelrunde je Staffel
 - **Aufstieg:** bei einer Staffel Plätze 1 und 2; bei mehreren Staffeln die jeweiligen Staffelsieger
-- **Staffeleinteilung:** nach Meldeschluss durch den Kreisvorstand
+- **Staffeleinteilung:** nach Eingang der Meldung(en)
 - **Weitere Aufstiegsrechte:** aus freien Anwartschaften der Kreisklasse A möglich
 - **Vergleichsregel:** gleichplatzierte Mannschaften nach der allgemeinen Regel zum Staffelvergleich
 

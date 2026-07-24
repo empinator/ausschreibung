@@ -9,7 +9,7 @@
 
 ### Besonderheiten
 
-Die Regelungen des § 70 Absatz 3 zum 3x3-Wettbewerb sollen entsprechend gelten.
+Die Regelungen des § 70 Absatz 3 zum 3x3-Wettbewerb gelten entsprechend.
 
 ### Prüfbedarf
 

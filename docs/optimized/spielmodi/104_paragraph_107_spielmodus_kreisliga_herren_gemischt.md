@@ -2,7 +2,7 @@
 
 ### Wettbewerbsparameter
 
-- **Sollstärke / Ausgleich:** höchstens 10 Mannschaften
+- **Sollstärke / Ausgleich:** höchstens 10 Mannschaften; Ausgleich durch zusätzliche Absteiger nach Eingliederung der Aufsteiger aus der Kreisklasse und der Absteiger aus der Bezirksklasse
 - **Rundenmodus:** Doppelrunde
 - **Aufstieg in die Bezirksklasse:** Platz 1
 - **Nachrücken:** bei Verzicht oder Hinderung grundsätzlich auf Platz 2; bei Anwartschaftsverlusten nach § 106 Erweiterung auf weitere Platzierungen möglich
