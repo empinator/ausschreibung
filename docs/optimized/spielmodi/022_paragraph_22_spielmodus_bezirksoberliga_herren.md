@@ -2,7 +2,7 @@
 
 ### Wettbewerbsparameter
 
-- **Wettbewerbsformat / Rundenmodus:** Liga, Doppelrunde
+- **Wettbewerbsformat / Rundenmodus:** Liga, Hin- und Rückrunde
 - **Sollstärke / Ausgleich:** 12 Mannschaften; Ausgleich unter Einbeziehung der Aufsteiger aus den Bezirksligen und der Absteiger aus der Bayernliga
 - **Aufstieg in die Bayernliga:** Plätze 1 und 2; maßgeblich bleibt die BBV-Ausschreibung
 - **Zugang aus der Bezirksliga:** jeweilige Staffelsieger; freie Anwartschaften zuerst durch weitere Aufsteiger, anschließend durch den besten Absteiger

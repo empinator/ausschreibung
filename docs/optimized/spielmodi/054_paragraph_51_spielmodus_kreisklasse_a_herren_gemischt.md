@@ -3,7 +3,7 @@
 ### Wettbewerbsparameter
 
 - **Sollstärke / Ausgleich:** 8 Mannschaften
-- **Rundenmodus:** Doppelrunde
+- **Rundenmodus:** Hin- und Rückrunde
 - **Aufstieg in die Kreisliga B:** Plätze 1 und 2; weitere Aufsteiger nach § 50 B
 - **Freie Anwartschaften:** weitere Aufsteiger aus der Kreisklasse B, anschließend Verringerung der Absteigerzahl
 - **Abstieg:** Plätze 7 und 8; Nichtteilnahme führt ebenfalls zum Abstieg

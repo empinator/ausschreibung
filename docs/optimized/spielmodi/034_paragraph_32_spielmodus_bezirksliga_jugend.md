@@ -3,7 +3,7 @@
 ### Wettbewerbsparameter
 
 - **Einrichtung:** durch langfristigen Beschluss des Bezirksjugendausschusses in Altersklassen mit hoher Meldezahl
-- **Regelfall:** eine Staffel mit Doppelrunde
+- **Regelfall:** eine Staffel mit Hin- und Rückrunde
 - **Alternative Staffelstruktur:** zwei regional eingeteilte Staffeln mit insgesamt bis zu 20 Mannschaften
 - **Qualifikation:** grundsätzlich bei mehr als 10 Meldungen
 - **Teilnahmerechte:** über Relegationsplatzierungen oder Qualifikation nach § 33

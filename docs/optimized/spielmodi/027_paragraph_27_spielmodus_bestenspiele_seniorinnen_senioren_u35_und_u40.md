@@ -3,7 +3,7 @@
 ### Wettbewerbsparameter
 
 - **Wettbewerbsformat:** abhängig vom Meldeergebnis; Festlegung nach Eingang der Meldungen
-- **Mögliche Austragungsformen:** Doppelrunde, KO-System mit Hin- und Rückspiel, Gruppenphase oder Turnier an einem Tag beziehungsweise Wochenende
+- **Mögliche Austragungsformen:** Hin- und Rückrunde, KO-System mit Hin- und Rückspiel, Gruppenphase oder Turnier an einem Tag beziehungsweise Wochenende
 - **Weiterführende Wettbewerbe:** Meister und gegebenenfalls Vizemeister sind zur Teilnahme an weiterführenden Bestenspielen verpflichtet; Näheres regelt die BBV-Ausschreibung
 - **Spieltermine:** gesonderte Veröffentlichung; Abweichungen im Einvernehmen aller Beteiligten mit Zustimmung des Sportreferenten möglich
 - **Schiedsrichterkosten bei Turnierform:** Umlage auf die teilnehmenden Vereine

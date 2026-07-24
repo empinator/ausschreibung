@@ -3,7 +3,7 @@
 ### Wettbewerbsparameter
 
 - **Teilnahme:** alle Mannschaften ohne Teilnahme in einer höheren Liga
-- **Rundenmodus:** Doppelrunde
+- **Rundenmodus:** Hin- und Rückrunde
 - **Staffelstruktur:** abhängig vom Meldeergebnis eine oder mehrere Staffeln
 - **Nachrücken:** bei Verzicht oder Hinderung grundsätzlich auf Platz 2; bei Anwartschaftsverlusten nach § 107 Erweiterung auf weitere Platzierungen möglich
 - **Fehlender Aufsteiger:** verringert die Zahl der Absteiger aus der nächsthöheren Spielklasse entsprechend

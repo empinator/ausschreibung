@@ -4,7 +4,7 @@
 
 - **Wettbewerbsformat:** Liga
 - **Staffelstruktur / Sollstärke:** zwei Staffeln mit jeweils 10 Mannschaften; Gesamtsollstärke 20 Mannschaften
-- **Rundenmodus:** Doppelrunde je Staffel
+- **Rundenmodus:** Hin- und Rückrunde je Staffel
 - **Staffeleinteilung:** regional; jährlich wechselnd Ost/West bei geradem Meldejahr und Nord/Süd bei ungeradem Meldejahr
 - **Aufstieg in die Bezirksoberliga:** jeweilige Staffelsieger
 - **Zugang aus den Bezirksklassen:** jeweilige Kreismeister der vier Kreise; freie Anwartschaften im d’Hondt-Verfahren auf die Kreise verteilt und dort an die bestplatzierten noch nicht berechtigten Mannschaften vergeben

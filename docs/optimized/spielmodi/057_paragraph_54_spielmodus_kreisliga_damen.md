@@ -4,7 +4,7 @@
 
 - **Teilnahme:** alle Mannschaften ohne Teilnahme in einer höheren Liga
 - **Staffelstruktur:** abhängig vom Meldeergebnis eine oder mehrere Staffeln
-- **Rundenmodus:** Doppelrunde je Staffel
+- **Rundenmodus:** Hin- und Rückrunde je Staffel
 - **Aufstieg:** jeweilige Staffelsieger in die Bezirksklasse
 - **Staffeleinteilung:** nach Eingang der Meldung(en)
 - **Weitere Aufstiegsrechte:** aus freien Anwartschaften der Bezirksklasse möglich

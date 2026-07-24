@@ -4,7 +4,7 @@
 
 - **Sollstärke / Ausgleich:** 10 Mannschaften
 - **Wettbewerbsformat:** Liga mit teilnehmerzahlabhängigem Austragungsmodus
-- **Staffelstruktur / Rundenmodus:** eine Staffel mit Doppelrunde oder zwei Vorrundengruppen mit Doppelrunde und anschließenden Auf- und Abstiegsspielen
+- **Staffelstruktur / Rundenmodus:** eine Staffel mit Hin- und Rückrunde oder zwei Vorrundengruppen mit Hin- und Rückrunde und anschließenden Auf- und Abstiegsspielen
 - **Aufstieg in die Bayernliga:** bei einer Staffel Platz 1; bei zwei Gruppen Ermittlung über die Aufstiegsspiele; maßgeblich bleibt die BBV-Ausschreibung
 - **Zugang aus der Bezirksliga:** Plätze 1 und 2 beziehungsweise zwei Sieger der Aufstiegsspiele; freie Anwartschaften zuerst durch weitere Aufsteiger, anschließend durch den besten Absteiger
 - **Nachrücken:** bei freien Anwartschaften bis höchstens Platz 4 beziehungsweise bis zu den Teilnehmern der Aufstiegsspiele

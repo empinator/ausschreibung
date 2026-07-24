@@ -4,7 +4,7 @@
 
 - **Sollstärke / Ausgleich:** 9 Mannschaften
 - **Wettbewerbsformat:** Liga mit teilnehmerzahlabhängigem Austragungsmodus
-- **Staffelstruktur / Rundenmodus:** eine Staffel mit Doppelrunde oder zwei Vorrundengruppen mit Doppelrunde und anschließenden Auf- und Abstiegsspielen
+- **Staffelstruktur / Rundenmodus:** eine Staffel mit Hin- und Rückrunde oder zwei Vorrundengruppen mit Hin- und Rückrunde und anschließenden Auf- und Abstiegsspielen
 - **Aufstieg:** bei einer Staffel Plätze 1 und 2; bei zwei Gruppen zwei über Aufstiegsspiele ermittelte Mannschaften
 - **Zugang aus den Bezirksklassen:** jeweilige Staffelsieger; freie Anwartschaften zuerst an weitere nachrückberechtigte Mannschaften, anschließend an den besten Absteiger
 - **Nachrücken:** aus den Bezirksklassen bis höchstens Platz 4

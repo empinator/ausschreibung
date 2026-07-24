@@ -3,7 +3,7 @@
 ### Wettbewerbsparameter
 
 - **Sollstärke / Ausgleich:** 10 Mannschaften, mindestens 4; Ausgleich durch zusätzliche Qualifikationsmodi des Bezirksjugendausschusses
-- **Rundenmodus:** Doppelrunde; U10 kann in Turnierform ausgetragen werden
+- **Rundenmodus:** Hin- und Rückrunde; U10 kann in Turnierform ausgetragen werden
 - **Qualifikation:** bei mehr als 10 Meldungen sportliche Qualifikation
 - **Teilnahmerechte mit vorheriger Bezirksliga:** Plätze 1-6 der Bezirksoberliga oder Plätze 1 und 2 einer Relegationsgruppe nach § 34
 - **Teilnahmerechte ohne vorherige Bezirksliga:** Qualifikation nach § 33

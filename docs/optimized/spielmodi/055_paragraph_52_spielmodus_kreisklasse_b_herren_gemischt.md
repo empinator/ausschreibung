@@ -4,7 +4,7 @@
 
 - **Teilnahme:** alle Mannschaften ohne Teilnahme in einer höheren Liga
 - **Staffelstruktur:** nach Meldeergebnis; höchstens 9 Mannschaften je Staffel
-- **Rundenmodus:** Doppelrunde je Staffel
+- **Rundenmodus:** Hin- und Rückrunde je Staffel
 - **Aufstieg:** bei einer Staffel Plätze 1 und 2; bei mehreren Staffeln die jeweiligen Staffelsieger
 - **Staffeleinteilung:** nach Eingang der Meldung(en)
 - **Weitere Aufstiegsrechte:** aus freien Anwartschaften der Kreisklasse A möglich

@@ -3,7 +3,7 @@
 ### Wettbewerbsparameter
 
 - **Sollstärke / Ausgleich:** 10 Mannschaften
-- **Rundenmodus:** Doppelrunde
+- **Rundenmodus:** Hin- und Rückrunde
 - **Aufstieg in die Bezirksliga:** Platz 1; weitere Aufsteiger nach § 23
 - **Zugang aus der Kreisliga A:** Plätze 1 und 2; freie Anwartschaften durch weitere Aufsteiger aus der Kreisliga A, anschließend Verringerung der Absteigerzahl
 - **Abstieg:** Plätze 9 und 10; Nichtteilnahme führt ebenfalls zum Abstieg

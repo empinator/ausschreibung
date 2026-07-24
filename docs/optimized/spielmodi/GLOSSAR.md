@@ -88,7 +88,7 @@ Grundform des Wettbewerbs, zum Beispiel Liga, Pokal, KO-System, Gruppenphase, Pl
 
 ## Rundenmodus
 
-Art der Rundenaustragung innerhalb einer Liga oder Staffel, zum Beispiel Hin- und Rückspiel, Doppelrunde oder Einfachrunde.
+Art der Rundenaustragung innerhalb einer Liga oder Staffel, zum Beispiel Hin- und Rückrund oder Einfachrunde.
 
 ## Kreisverbundsliga
 

@@ -2,7 +2,7 @@
 
 ### Wettbewerbsparameter
 - **Sollstärke:** 10 Mannschaften
-- **Rundenmodus:** Doppelrunde
+- **Rundenmodus:** Hin- und Rückrunde
 - **Aufstieg:** Platz 1 in die Bezirksliga
 
 ### Besonderheit: 3x3-Wettbewerb
