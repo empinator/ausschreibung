@@ -2,7 +2,7 @@
 
 ### Wettbewerbsparameter
 
-- **Wettbewerbsform:** abhängig vom Meldeergebnis
+- **Wettbewerbsformat:** abhängig vom Meldeergebnis
 - **Festlegung des Austragungsmodus:** nach Meldeschluss durch die zuständige Spielleitung; Bekanntgabe an die teilnehmenden Mannschaften
 
 ### Besonderheiten

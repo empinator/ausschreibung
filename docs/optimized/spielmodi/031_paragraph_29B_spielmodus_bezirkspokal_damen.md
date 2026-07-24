@@ -3,9 +3,8 @@
 ### Wettbewerbsparameter
 
 - **Mindestteilnehmerzahl:** 4 Mannschaften
-- **Wettbewerbsform:** abhängig vom Meldeergebnis
-- **Mögliche Austragungsform:** insbesondere Turnierform
-- **Festlegung der Wettbewerbsform:** nach Meldeschluss durch den Sportreferenten; Mitteilung an die teilnehmenden Mannschaften
+- **Wettbewerbsformat:** abhängig vom Meldeergebnis; insbesondere Turnierform möglich
+- **Festlegung des Formats:** nach Meldeschluss durch den Sportreferenten; Mitteilung an die teilnehmenden Mannschaften
 
 ### Besonderheiten
 

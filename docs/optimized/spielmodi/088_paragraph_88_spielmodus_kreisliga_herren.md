@@ -2,13 +2,10 @@
 
 ### Wettbewerbsparameter
 
-- **Sollstärke:** höchstens 9 Mannschaften
+- **Sollstärke / Ausgleich:** höchstens 9 Mannschaften
 - **Rundenmodus:** Doppelrunde
-- **Aufstieg:** Plätze 1 und 2 in die Bezirksklasse
-- **Sportliche Abstiegsplätze:** zwei Letztplatzierte
-- **Sollstärkenausgleich:** auf 9 Mannschaften
-- **Nachrücken:** bei Verzicht oder Hinderung bis höchstens Platz 3
-- **Fehlender Aufsteiger:** verringert die Zahl der Absteiger aus der nächsthöheren Spielklasse entsprechend
+- **Aufstieg in die Bezirksklasse:** Plätze 1 und 2; Nachrücken bei Verzicht oder Hinderung bis höchstens Platz 3
+- **Abstieg:** zwei Letztplatzierte; fehlender Aufsteiger verringert die Zahl der Absteiger aus der nächsthöheren Spielklasse entsprechend
 
 ### Besonderheiten
 

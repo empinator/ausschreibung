@@ -2,12 +2,11 @@
 
 ### Wettbewerbsparameter
 
-- **Sollstärke:** höchstens 10 Mannschaften
+- **Sollstärke / Ausgleich:** höchstens 10 Mannschaften
 - **Rundenmodus:** Doppelrunde
-- **Aufstieg:** Platz 1 in die Bezirksklasse
-- **Nichtteilnahme:** führt zum Abstieg und zum Verlust der Anwartschaft
-- **Sollstärkenausgleich:** auf 10 Mannschaften
+- **Aufstieg in die Bezirksklasse:** Platz 1
 - **Nachrücken:** bei Verzicht oder Hinderung grundsätzlich auf Platz 2; bei Anwartschaftsverlusten nach § 106 Erweiterung auf weitere Platzierungen möglich
+- **Nichtteilnahme:** führt zum Abstieg und zum Verlust der Anwartschaft
 
 ### Entscheidungsspiel
 

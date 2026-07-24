@@ -2,17 +2,13 @@
 
 ### Wettbewerbsparameter
 
-- **Gesamtsollstärke:** 16 Mannschaften
-- **Staffelstruktur:** zwei regionale Staffeln mit jeweils 8 Mannschaften
+- **Staffelstruktur / Sollstärke:** zwei regionale Staffeln mit jeweils 8 Mannschaften; Gesamtsollstärke 16 Mannschaften
 - **Rundenmodus:** Doppelrunde je Staffel
-- **Aufstieg:** jeweilige Staffelsieger in die Bezirksliga; weitere Aufsteiger nach § 25
-- **Reguläre Aufsteiger aus der Kreisliga:** jeweilige Meister
-- **Sportlicher Abstiegsplatz:** Platz 8 jeder Staffel
-- **Sollstärkenausgleich:** je Staffel auf 8 Mannschaften
-- **Nichtteilnahme:** führt zum Abstieg
+- **Aufstieg in die Bezirksliga:** jeweilige Staffelsieger; weitere Aufsteiger nach § 25
+- **Zugang aus der Kreisliga:** jeweilige Meister; freie Anwartschaften durch weitere Aufsteiger aus den Kreisligen, anschließend Verringerung der Absteigerzahl
+- **Abstieg:** Platz 8 jeder Staffel; Nichtteilnahme führt ebenfalls zum Abstieg
 - **Zusätzlicher Abstieg bei Unterbesetzung:** bei nur 6 oder 7 tatsächlich teilnehmenden Mannschaften auch die letztplatzierte teilnehmende Mannschaft
 - **Vergleichsregel:** Staffelvergleich nach der zentralen Vergleichsregel
-- **Freie Anwartschaften:** weitere Aufsteiger aus den Kreisligen; anschließend Verringerung der Absteigerzahl
 
 ### Besonderheiten
 

@@ -2,19 +2,15 @@
 
 ### Wettbewerbsparameter
 
-- **Wettbewerbsform:** Liga
-- **Sollstärke:** 12 Mannschaften
-- **Rundenmodus:** Doppelrunde
-- **Aufstiegsberechtigte Platzierungen:** Plätze 1 und 2 in die Bayernliga; maßgeblich bleibt die BBV-Ausschreibung
-- **Reguläre Aufsteiger aus der Bezirksliga:** jeweilige Staffelsieger
-- **Sportliche Abstiegsplätze:** Plätze 11 und 12
-- **Saisonende:** 02.05.2027; spätere Spielverlegungen sind ausgeschlossen
-- **Nachrücken:** freie Anwartschaften bis höchstens Platz 4 der Bezirksligen
-- **Vergleichsregel:** Staffelvergleich nach § 121.2
-- **Sollstärkenausgleich:** auf 12 Mannschaften unter Einbeziehung der Aufsteiger aus den Bezirksligen und der Absteiger aus der Bayernliga
-- **Nichtteilnahme:** führt zum Abstieg
+- **Wettbewerbsformat / Rundenmodus:** Liga, Doppelrunde
+- **Sollstärke / Ausgleich:** 12 Mannschaften; Ausgleich unter Einbeziehung der Aufsteiger aus den Bezirksligen und der Absteiger aus der Bayernliga
+- **Aufstieg in die Bayernliga:** Plätze 1 und 2; maßgeblich bleibt die BBV-Ausschreibung
+- **Zugang aus der Bezirksliga:** jeweilige Staffelsieger; freie Anwartschaften zuerst durch weitere Aufsteiger, anschließend durch den besten Absteiger
+- **Nachrücken:** bei freien Anwartschaften bis höchstens Platz 4 der Bezirksligen
+- **Abstieg:** Plätze 11 und 12; Nichtteilnahme führt ebenfalls zum Abstieg
 - **Zusätzlicher Abstieg bei Unterbesetzung:** bei 9 oder 10 tatsächlich teilnehmenden Mannschaften auch die letztplatzierte teilnehmende Mannschaft
-- **Freie Anwartschaften:** zuerst weitere Aufsteiger, anschließend bester Absteiger
+- **Vergleichsregel:** Staffelvergleich nach § 121.2
+- **Saisonende:** 02.05.2027; spätere Spielverlegungen sind ausgeschlossen
 
 ### Besonderheiten
 

@@ -2,15 +2,12 @@
 
 ### Wettbewerbsparameter
 
-- **Sollstärke:** 9 Mannschaften
+- **Sollstärke / Ausgleich:** 9 Mannschaften
 - **Rundenmodus:** Doppelrunde
-- **Aufstieg:** Plätze 1 und 2 in die Bezirksklasse
-- **Reguläre Aufsteiger aus der Kreisliga B:** Plätze 1 und 2
-- **Sportliche Abstiegsplätze:** Plätze 8 und 9
-- **Sollstärkenausgleich:** auf 9 Mannschaften
-- **Nichtteilnahme:** führt zum Abstieg
+- **Aufstieg in die Bezirksklasse:** Plätze 1 und 2
+- **Zugang aus der Kreisliga B:** Plätze 1 und 2; freie Anwartschaften durch weitere Aufsteiger aus der Kreisliga B, anschließend Verringerung der Absteigerzahl
+- **Abstieg:** Plätze 8 und 9; Nichtteilnahme führt ebenfalls zum Abstieg
 - **Zusätzlicher Abstieg bei Unterbesetzung:** bei nur 6 oder 7 tatsächlich teilnehmenden Mannschaften auch die letztplatzierte teilnehmende Mannschaft
-- **Freie Anwartschaften:** weitere Aufsteiger aus der Kreisliga B; anschließend Verringerung der Absteigerzahl
 
 ### Besonderheiten
 
